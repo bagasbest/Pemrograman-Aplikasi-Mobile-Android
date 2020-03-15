@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/keranjang"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+        android:title="@string/item1"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/kalender"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:title="@string/item1"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/item1"
+        android:title="@string/order"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item2"
+        android:title="@string/status"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item3"
+        android:title="@string/favorite"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item4"
+        android:title="@string/contact"
+        app:showAsAction="never"/>
+
+</menu>

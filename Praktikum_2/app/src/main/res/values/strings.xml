@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Order Activity</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="enter_address">Enter address</string>
+    <string name="address">Address</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="phone">Phone</string>
+    <string name="note">note</string>
+    <string name="enter_note">Enter note</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="order">Order</string>
+    <string name="status">Status</string>
+    <string name="favorite">Favorite</string>
+    <string name="contact">Contact</string>
+    <string name="item1">Item1</string>
+    <string name="nama_dessert">Nama Dessert</string>
+    <string name="detail">Detail</string>
+    <string name="droid_dessert">Droid Dessert</string>
+    <string name="choose_a_dessert">Choose a Dessert</string>
+    <string name="choose_the_date_and_time">Choose the date and time:</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>

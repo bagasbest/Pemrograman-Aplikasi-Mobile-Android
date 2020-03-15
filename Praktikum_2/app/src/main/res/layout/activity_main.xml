@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="50dp">
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp" />
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="@string/enter_your_name"
+        android:inputType="text"
+        tools:ignore="TextViewEdits"
+        android:autofillHints="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:id="@+id/tv_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/address"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp" />
+
+        <EditText
+            android:id="@+id/et_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:ems="10"
+            android:hint="@string/enter_address"
+            android:inputType="text"
+            tools:ignore="TextViewEdits"
+            android:autofillHints="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:id="@+id/tv_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/phone"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp" />
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:ems="10"
+            android:hint="@string/enter_phone"
+            android:inputType="number"
+            tools:ignore="TextFields,TextViewEdits"
+            android:autofillHints="" />
+
+        <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/et_phone"
+        app:layout_constraintTop_toBottomOf="@+id/et_address"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:id="@+id/tv_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/note"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp" />
+
+        <EditText
+            android:id="@+id/et_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:ems="10"
+            android:hint="@string/enter_note"
+            android:inputType="text"
+            tools:ignore="TextViewEdits"
+            android:autofillHints="" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        style=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_a_delivery_method"
+        android:layout_marginStart="10dp" />
+
+    <RadioGroup
+        android:id="@+id/radiogrup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp">
+
+        <RadioButton
+            android:id="@+id/rb_sameday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:checked="true"
+            android:onClick="checkButton"
+            android:text="@string/same_day_messenger_service"
+            tools:ignore="OnClick" />
+    <RadioButton
+        android:id="@+id/rb_nextday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:onClick="checkButton"
+        android:text="@string/next_day_ground_delivery"
+        />
+    <RadioButton
+        android:id="@+id/rb_pickup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:onClick="checkButton"
+        android:text="@string/pick_up"
+        />
+
+    </RadioGroup>
+
+</LinearLayout>

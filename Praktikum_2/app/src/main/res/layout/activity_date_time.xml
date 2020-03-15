@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DateTime"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        style=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_the_date_and_time"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp">
+
+
+        <Button
+            android:id="@+id/bt_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:drawableLeft="@drawable/ic_date_range_black_24dp"
+            android:drawableStart="@drawable/ic_date_range_black_24dp"
+            android:text="@string/date"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_blue"
+            tools:ignore="ButtonStyle" />
+        <Button
+            android:id="@+id/bt_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:drawableLeft="@drawable/ic_access_time_black_24dp"
+            android:text="@string/time"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_blue"
+            android:drawableStart="@drawable/ic_access_time_black_24dp"
+            tools:ignore="ButtonStyle" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
