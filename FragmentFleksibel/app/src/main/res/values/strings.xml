@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fragment Fleksibel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halo_ini_home_fragment">Halo Ini Home Fragment</string>
+    <string name="ke_fragment_kategori">Ke Fragment Kategori</string>
+    <string name="this_profile">Ini Activity Profile</string>
+    <string name="this_category">Ini Fragment Kategori</string>
+    <string name="kategori_gayaHidup">Ke Fragment Gaya Hidup</string>
+    <string name="kategori_nama">Nama Kategori</string>
+    <string name="kategori_deskripsi">Deskripsi Kategori</string>
+    <string name="to_profile">Ke Halaman Profile Activity</string>
+    <string name="show_dialog">Tampilkan Sebuah Dialog</string>
+    <string name="to_kategori">Ke Fragment Kategori</string>
+    <string name="question_brilliant">Siapa Mahasiswa Paling Cerdas?</string>
+    <string name="bagasPangestu">Bagas Pangestu</string>
+    <string name="opik">Opik Sudipik</string>
+    <string name="mamat">Mamat Sumamat</string>
+    <string name="sueb">Sueb Sureeb</string>
+    <string name="ani">Ani Surani</string>
+    <string name="pilih">Pilih</string>
+    <string name="tutup">Tutup</string>
+
+
+</resources>
