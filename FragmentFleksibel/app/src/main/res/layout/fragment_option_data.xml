@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OptionDataFragment"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <!-- OptionFragment -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/question_brilliant" />
+
+    <RadioGroup
+        android:id="@+id/radio_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/rb_bagas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bagasPangestu" />
+
+        <RadioButton
+            android:id="@+id/rb_sueb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sueb" />
+
+        <RadioButton
+            android:id="@+id/rb_ani"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ani" />
+
+        <RadioButton
+            android:id="@+id/rb_mamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mamat" />
+
+        <RadioButton
+            android:id="@+id/rb_opik"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/opik" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tutup"
+            android:textAllCaps="false"
+            android:layout_marginRight="4dp"
+            android:layout_marginEnd="4dp"
+            style="?android:attr/buttonBarButtonStyle"/>
+
+        <Button
+            android:id="@+id/btn_choose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pilih"
+            android:textAllCaps="false"
+            android:layout_marginLeft="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_weight="0.5"
+            tools:ignore="ButtonStyle" />
+
+    </LinearLayout>
+
+</LinearLayout>

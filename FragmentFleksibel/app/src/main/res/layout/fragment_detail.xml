@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailFragment"
+    android:padding="16dp"
+    android:orientation="vertical"
+    >
+
+    <!-- Detail Fragment -->
+    <TextView
+        android:id="@+id/tv_gaya_hidup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gaya_hidup"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_Detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:layout_marginTop="16dp"
+        android:text="@string/kategori_ini_berisi_produk_produk_gaya_hidup"/>
+
+    <Button
+        android:id="@+id/btn_back_to_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/kembali_ke_profil_activity"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_show_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_dialog"
+        android:textAllCaps="false"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
