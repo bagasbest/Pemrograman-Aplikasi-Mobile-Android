@@ -1,5 +1,6 @@
 package com.fragmentfleksibel;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -79,6 +80,8 @@ public class DetailFragment extends Fragment implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()){
             case R.id.btn_back_to_activity:
+                Intent i = new Intent(getActivity(), ProfilActivity.class);
+                startActivity(i);
                 break;
             case  R.id.btn_show_dialog:
                 OptionDataFragment option = new OptionDataFragment();
