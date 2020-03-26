@@ -1,0 +1,4 @@
+#Sun Mar 22 19:17:56 ICT 2020
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\FragmentFleksibel\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

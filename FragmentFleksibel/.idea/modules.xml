@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fragment Fleksibel.iml" filepath="$PROJECT_DIR$/Fragment Fleksibel.iml" group="Fragment Fleksibel" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fragment Fleksibel/app" />
+    </modules>
+  </component>
+</project>
