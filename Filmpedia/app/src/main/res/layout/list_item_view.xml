@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/img_poster"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:src="@android:color/darker_gray"
+        android:contentDescription="@string/img" />
+
+    <TextView
+        android:id="@+id/tv_judul"
+        style="@style/wrap"
+        android:textSize="20sp"
+        android:text="@string/judul_film"
+        android:layout_toEndOf="@id/img_poster"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+        android:id="@+id/tv_terbit"
+        style="@style/wrap"
+        android:text="@string/description"
+        android:layout_below="@+id/tv_judul"
+        android:layout_toEndOf="@+id/img_poster"
+        android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+        android:id="@+id/tv_genre"
+        style="@style/wrap"
+        android:text="@string/description"
+        android:layout_below="@+id/tv_terbit"
+        android:layout_toEndOf="@+id/img_poster"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-medium" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        style="@style/wrap"
+        android:text="@string/description"
+        android:layout_below="@+id/tv_genre"
+        android:layout_toEndOf="@+id/img_poster"
+        android:layout_marginTop="16dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+        android:id="@+id/star"
+        style="@style/wrap"
+        android:background="@drawable/ic_stars_black_24dp"
+        android:layout_toEndOf="@id/img_poster"
+        android:layout_below="@+id/tv_desc"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/tv_rating"
+        style="@style/wrap"
+        android:text="@string/description"
+        android:layout_below="@+id/tv_desc"
+        android:layout_toEndOf="@id/star"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif-medium"/>
+
+</RelativeLayout>

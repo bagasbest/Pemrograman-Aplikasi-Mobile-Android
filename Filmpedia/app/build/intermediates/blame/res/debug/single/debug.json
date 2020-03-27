@@ -28,12 +28,16 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\poster_marrypopins.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_btn.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_mortalengine.jpg.flat",
@@ -58,6 +62,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_creed.jpg.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\poster_creed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\menu_optionmenu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\menu\\optionmenu.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_dragon.jpg.flat",
@@ -88,6 +96,10 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black_24dp.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_bohemian.jpg.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\poster_bohemian.jpg"
     },
@@ -106,6 +118,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_robinhood.jpg.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\poster_robinhood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_thumb_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\src\\main\\res\\drawable\\ic_thumb_up_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Filmpedia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
