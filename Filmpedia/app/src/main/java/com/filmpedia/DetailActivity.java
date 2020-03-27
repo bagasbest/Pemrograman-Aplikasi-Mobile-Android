@@ -69,27 +69,27 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
         btnVote = findViewById(R.id.btn_vote);
         btnVote.setOnClickListener(this);
 
-
-        ArrayList<Posterfilm> posterfilms = this.getIntent().getParcelableArrayListExtra(EXTRA_POSTERFILM);
+        //tidak menggunakan arrayList, saat getIntent
+        Posterfilm posterfilms = this.getIntent().getParcelableExtra(EXTRA_POSTERFILM);
 
         assert posterfilms != null;
         Glide.with(this)
-                .load(posterfilms.get(0).getFoto())
+                .load(posterfilms.getFoto())
                 .into(imgDetail);
 
-        judul = posterfilms.get(0).getJudul();
+        judul = posterfilms.getJudul();
         judulDetail.setText(judul);
 
-        tanggal = posterfilms.get(0).getTanggal();
+        tanggal = posterfilms.getTanggal();
         tanggalDetail.setText(tanggal);
 
-        desc = posterfilms.get(0).getDeskripsi();
+        desc = posterfilms.getDeskripsi();
         descDetail.setText(desc);
 
-        rating = posterfilms.get(0).getRating();
+        rating = posterfilms.getRating();
         ratingDetail.setText(rating);
 
-        genre = posterfilms.get(0).getGenre();
+        genre = posterfilms.getGenre();
         genreDetail.setText(genre);
 
     }

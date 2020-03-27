@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity{
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent i = new Intent(MainActivity.this, DetailActivity.class);
 
-                ArrayList <Posterfilm> posterfilms = new ArrayList<Posterfilm>();
-
                 Posterfilm p = new Posterfilm();
                 p.setJudul(judul[position]);
                 p.setTanggal(tanggal[position]);
@@ -58,7 +56,8 @@ public class MainActivity extends AppCompatActivity{
 
                 posterfilms.add(p);
 
-                i.putParcelableArrayListExtra(DetailActivity.EXTRA_POSTERFILM, posterfilms);
+                //sudah diubah
+                i.putExtra(DetailActivity.EXTRA_POSTERFILM, p);
                 startActivity(i);
 
             }
