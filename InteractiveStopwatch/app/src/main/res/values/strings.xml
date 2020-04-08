@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interactive Stopwatch</string>
+    <string name="image">image</string>
+    <string name="healthy_on_you">Healthy On You</string>
+    <string name="key_of_happiness_is_not_a_life_for_money">Key of happiness is not a \n
+                                                            life for money</string>
+    <string name="get_started">Get Started</string>
+    <string name="finish_workout">Finish Workout</string>
+</resources>
