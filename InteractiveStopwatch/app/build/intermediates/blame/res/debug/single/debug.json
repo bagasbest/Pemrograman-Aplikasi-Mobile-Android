@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_btg_two.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\anim\\btg_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgcircle.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\bgcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_m_light.ttf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\font\\m_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icanchor.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\icanchor.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stopwatch.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\layout\\activity_stopwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_btg_one.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\anim\\btg_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_m_regular.ttf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\font\\m_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_m_medium.ttf.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\font\\m_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icget.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\icget.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_btn.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\font_font.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_rounding_stopwatch.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\anim\\rounding_stopwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_btn1.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\rounded_btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\build\\intermediates\\res\\merged\\debug\\anim_atg.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\InteractiveStopwatch\\app\\src\\main\\res\\anim\\atg.xml"
+    }
+]
