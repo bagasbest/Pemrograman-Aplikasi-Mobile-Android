@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Testing</string>
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="Tinggi">Tinggi</string>
+    <string name="Hitung">Hitung</string>
+    <string name="Hasil">Hasil</string>
+    <string name="save">Save</string>
+    <string name="x_volume">Volume</string>
+    <string name="x_circumference">Circumference</string>
+    <string name="survace_area">Survace area</string>
+</resources>
